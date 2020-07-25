@@ -8,6 +8,9 @@
 * **Check my** [LinkedIn](https://www.linkedin.com/in/rajasekhar-k-e/)
 * **Mail at** developersbreach@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajashekarraju)](https://github.com/rajashekarraju/github-readme-stats)
+
+
 <!--
 **RajashekarRaju/RajashekarRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
