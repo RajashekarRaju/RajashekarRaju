@@ -1,6 +1,6 @@
 ### Hi there, I'm Rajasekhar 👋
 
-#### I'm a android developer, blogger, tech enthusiastic and civil engineer. Learns from open source community and always happy to assist someone with his work. I'm currently developing android applications also blog which puts me in here at github:sparkles: to create helpful repositories and examples. Unfortunately i didn't find any fun fact about me to tell you, hope i'll do sometime.
+### I'm a android developer, blogger, tech enthusiastic and civil engineer. Learns from open source community and always happy to assist someone with his work. I'm currently developing android applications also blog which puts me in here at github:sparkles: to create helpful repositories and examples. Unfortunately i didn't find any fun fact about me to tell you, hope i'll do sometime.
 
 ### Me in Web ? :eyes:
 
