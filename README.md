@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Rajasekhar 👋
 
 #### I'm a android developer, blogger, tech enthusiastic and civil engineer. Learns from open source community and always happy to assist someone with his work. I'm currently developing android applications also blog which puts me in here at github:sparkles: to create helpful repositories and examples. Unfortunately i didn't find any fun fact about me to tell you, hope i'll do sometime.
 
 ### Me in Web ? :eyes:
-#### Blog at [DevelopersBreach](https://developersbreach.com/) 
-#### Check my [LinkedIn](https://www.linkedin.com/in/rajasekhar-k-e/)
-#### Mail at developersbreach@gmail.com
+
+* **Blog at** [developersbreach.com](https://developersbreach.com/)
+* **Check my** [LinkedIn](https://www.linkedin.com/in/rajasekhar-k-e/)
+* **Mail at** developersbreach@gmail.com
 
 <!--
 **RajashekarRaju/RajashekarRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
