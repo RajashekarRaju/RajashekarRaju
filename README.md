@@ -18,11 +18,11 @@
 
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exceptions in kotlin](https://developersbreach.com/exceptions-in-kotlin/)
 - [Loops, Ranges and Progressions in kotlin](https://developersbreach.com/loops-ranges-progressions-kotlin/)
 - [Kotlin java and interoperability](https://developersbreach.com/kotlin-java-and-interoperability/)
 - [Search in a list using RecyclerView in Android](https://developersbreach.com/search-recyclerview-with-query-voice-android/)
 - [Firestore collections and documents in RecyclerView Android](https://developersbreach.com/firestore-collections-documents-recyclerview-android/)
-- [Hide show status bar in fragment or activity android](https://developersbreach.com/show-hide-status-bar-android/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
