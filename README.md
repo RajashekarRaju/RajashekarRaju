@@ -18,11 +18,11 @@
 
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementation of FloatingActionButton in Android](https://developersbreach.com/floating-action-button-in-android/)
 - [BottomNavigationView with navigation in Android](https://developersbreach.com/bottom-navigation-view-with-navigation/)
 - [Set in kotlin](https://developersbreach.com/set-in-kotlin/)
 - [Exceptions in kotlin](https://developersbreach.com/exceptions-in-kotlin/)
 - [Loops, Ranges and Progressions in kotlin](https://developersbreach.com/loops-ranges-progressions-kotlin/)
-- [Kotlin java and interoperability](https://developersbreach.com/kotlin-java-and-interoperability/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
