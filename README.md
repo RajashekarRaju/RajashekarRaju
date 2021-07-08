@@ -18,11 +18,11 @@
 
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ViewPager2 with Fragments and TabLayout](https://developersbreach.com/viewpager2-tablayout-fragments/)
 - [Implementation of FloatingActionButton in Android](https://developersbreach.com/floating-action-button-in-android/)
 - [BottomNavigationView with navigation in Android](https://developersbreach.com/bottom-navigation-view-with-navigation/)
 - [Set in kotlin](https://developersbreach.com/set-in-kotlin/)
 - [Exceptions in kotlin](https://developersbreach.com/exceptions-in-kotlin/)
-- [Loops, Ranges and Progressions in kotlin](https://developersbreach.com/loops-ranges-progressions-kotlin/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
