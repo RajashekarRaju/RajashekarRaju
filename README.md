@@ -18,11 +18,11 @@
 
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with menu’s in android](https://developersbreach.com/menus-in-android/)
 - [Implementing Snackbars with android](https://developersbreach.com/snackbars-with-android/)
 - [WebView and WebKit in Android](https://developersbreach.com/webview-and-webkit-in-android/)
 - [ViewPager2 with Fragments and TabLayout](https://developersbreach.com/viewpager2-tablayout-fragments/)
 - [Implementation of FloatingActionButton in Android](https://developersbreach.com/floating-action-button-in-android/)
-- [BottomNavigationView with navigation in Android](https://developersbreach.com/bottom-navigation-view-with-navigation/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
