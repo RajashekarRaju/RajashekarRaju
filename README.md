@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajasekhar</h1>
-<h3 align="center">Android developer | Kotlin | Java</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<h3 align="center">I breathe kotlin, I eat Jetpack Compose and I live to learn, build for android but not literally though.</h3>
 
-### I'm a android developer, blogger, tech enthusiastic and civil engineer. Learns from open source community and always happy to assist someone with his work. I'm currently developing android applications also blog which puts me in here at github:sparkles: to create helpful repositories and examples. Unfortunately i didn't find any fun fact about me to tell you, hope i'll do sometime.
+### I’m Rajasekhar working on my startup Developers Breach. I’m a Programmer who loves Android development, Creating content, Kotlin enthusiast and Engineering graduate. Learns from open source community and always happy to assist someone with my work. I spend most of time trainingm and mentoring students who are obsolute beginners in android which puts me in here at github:sparkles: to create helpful repositories and examples.
 
 ![](https://komarev.com/ghpvc/?username=RajashekarRaju)
 
