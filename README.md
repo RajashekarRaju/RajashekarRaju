@@ -23,7 +23,7 @@
 - [Implementing Snackbars with android](https://developersbreach.com/snackbars-with-android/)
 - [WebView and WebKit in Android](https://developersbreach.com/webview-and-webkit-in-android/)
 - [ViewPager2 with TabLayout in Android](https://developersbreach.com/viewpager2-tablayout-fragments/)
-- [Implementation of FloatingActionButton in Android](https://developersbreach.com/floating-action-button-in-android/)
+- [Implementation of Floating action button in Android](https://developersbreach.com/floating-action-button-in-android/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
