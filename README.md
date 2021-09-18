@@ -20,7 +20,7 @@
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [List animations in Compose: Add an item](https://developersbreach.com/add-item-animation-compose/)
-- [Rows, Columns, and Boxes in Jetpack Compose Android](https://developersbreach.com/basic-rows-columns-compose/)
+- [Rows Columns and Boxes in Jetpack Compose Android](https://developersbreach.com/basic-rows-columns-compose/)
 - [Working with menus in android](https://developersbreach.com/menus-in-android/)
 - [Implementing Snackbars with android](https://developersbreach.com/snackbars-with-android/)
 - [WebView and WebKit in Android](https://developersbreach.com/webview-and-webkit-in-android/)
