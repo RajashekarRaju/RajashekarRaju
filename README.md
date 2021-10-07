@@ -19,11 +19,11 @@
 
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bottom Navigation View with Jetpack Compose in Android](https://developersbreach.com/bottom-navigation-view-compose/)
 - [List animations in Compose: Drag to reorder](https://developersbreach.com/drag-to-reorder-compose/)
 - [List to detail navigation with compose android](https://developersbreach.com/list-detail-navigation-compose/)
 - [List animations in Compose: Swipe to delete](https://developersbreach.com/swipe-to-delete-compose/)
 - [List animations in Compose: Add an item](https://developersbreach.com/add-item-animation-compose/)
-- [Rows Columns and Boxes in Jetpack Compose Android](https://developersbreach.com/basic-rows-columns-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
