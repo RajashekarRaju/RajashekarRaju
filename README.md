@@ -20,9 +20,9 @@
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Jetpack Compose Hourglass animation on canvas in Android](https://developersbreach.com/hourglass-animation-canvas-compose/)
-- [Bottom Navigation View with Jetpack Compose in Android](https://developersbreach.com/bottom-navigation-view-compose/)
+- [Jetpack Compose Bottom Navigation View in Android](https://developersbreach.com/bottom-navigation-view-compose/)
 - [List animations in Compose: Drag to reorder](https://developersbreach.com/drag-to-reorder-compose/)
-- [Jetpack Compose List to detail navigation in android](https://developersbreach.com/list-detail-navigation-compose/)
+- [Jetpack Compose Navigation list to detail in android](https://developersbreach.com/list-detail-navigation-compose/)
 - [List animations in Compose: Swipe to delete](https://developersbreach.com/swipe-to-delete-compose/)
 <!-- BLOG-POST-LIST:END -->
 
