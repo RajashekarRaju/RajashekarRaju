@@ -3,7 +3,7 @@
 <!-- <h3 align="left">I breathe kotlin, I eat Jetpack Compose and I live to learn, build for android but not literally though.</h3> -->
   
 ## About Me
-#### Hi ! I’m ***Rajasekhar*** a ***Programmer*** who does ***Android Development***, ***Creative*** & ***Technical*** writing, ***Kotlin*** enthusiast and Engineering graduate. I learn from ***Open Source*** and always happy to assist others with my work. I spend most of time ***Training, Assisting*** & ***Mentoring*** students who are absolute ***Beginners in android development*** which puts me in here at github:sparkles: to create helpful repositories and examples. I’m also running my startup named ***Developers Breach*** which mostly works on contributing to open source.
+### Hi ! I’m ***Rajasekhar*** a ***Programmer*** who does ***Android Development***, ***Creative*** & ***Technical*** writing, ***Kotlin*** enthusiast and Engineering graduate. I learn from ***Open Source*** and always happy to assist others with my work. I spend most of time ***Training, Assisting*** & ***Mentoring*** students who are absolute ***Beginners in android development*** which puts me in here at github:sparkles: to create helpful repositories and examples. I’m also running my startup named ***Developers Breach*** which mostly works on contributing to open source.
   
 📫 Reach out to me @ **developersbreach@gmail.com**
 
