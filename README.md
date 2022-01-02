@@ -23,7 +23,7 @@
 ### New Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Reveal effect animations in compose jetpack android](https://developersbreach.com/reveal-effect-animations-compose-android/)
-- [Compose and build android app with new architecture principles](https://developersbreach.com/compose-android-app-architecture/)
+- [Architecture for Compose android apps – new revamped principles](https://developersbreach.com/compose-android-app-architecture/)
 - [Search with TextField in list Compose Android Jetpack](https://developersbreach.com/search-with-textfield-list-compose/)
 - [Custom shape animations pulsating circles on canvas in compose android](https://developersbreach.com/custom-shape-animations-pulsating-circles-canvas-compose/)
 - [Jetpack Compose Hourglass animation on canvas in Android](https://developersbreach.com/hourglass-animation-canvas-compose/)
