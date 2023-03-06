@@ -1,5 +1,5 @@
 ### Bonjour! :speech_balloon:
-<!-- **je m'appelle Raj** and *that's my french ending :confused:* -->
+**je m'appelle Raj** and *that's my french ending :confused:*
 
 <!-- ### :unamused: About Me -->
 <!-- *Hi !*  -->
@@ -11,12 +11,17 @@ ___
 | <img align="center" src="/Images/compose.png" height="40" width="40"/> | <img align="center" src="/Images/kotlin.png" height="28" width="28"/> | <img align="center" src="/Images/android.png" height="40" width="40"/> | <img align="center" src="/Images/java.png" height="32" width="32"/> |
 | :-: | :-: | :-: | :-: |
   
-### 📕 Latest Blog Posts<br>
-  
-| <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/reveal-effect-ani-blog-preview-image.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/banner.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/custom-animations-blog-preview-image.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/textfield-blog-preview-image.png" alt="Article banner" width="600" /> |
+### 📕 Latest Articles<br>
+
+| <img src="https://developersbreach.com/wp-content/uploads/2023/03/Paging-featured-image.png" alt="Article banner" width="600" /> | <img src="https://developersbreach.com/wp-content/uploads/2023/01/SavedStateHandleFeaturedImage.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/custom-animations-blog-preview-image.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/textfield-blog-preview-image.png" alt="Article banner" width="600" /> |
 | :-: | :-: | :-: | :-: | 
-| **Reveal effect animations in compose jetpack android** | **Compose and build android app with new architecture principles** | **Custom shape animations pulsating circles on canvas in compose android** | **Search with TextField in list Compose Android Jetpack** |
-| [*Read article*](https://developersbreach.com/reveal-effect-animations-compose-android/) | [*Read article*](https://developersbreach.com/compose-android-app-architecture/) | [*Read article*](https://developersbreach.com/custom-shape-animations-pulsating-circles-canvas-compose/) | [*Read article*](https://developersbreach.com/search-with-textfield-list-compose/) |
+| **Paging and lazy loading with compose in android jetpack** | **Use SavedStateHandle with ViewModel Compose Android** | **Custom shape animations pulsating circles on canvas in compose android** | **Search with TextField in list Compose Android Jetpack** |
+| [*Read article*](https://developersbreach.com/paging-compose-android/) | [*Read article*](https://developersbreach.com/savedstatehandle-viewmodel-android/) | [*Read article*](https://developersbreach.com/custom-shape-animations-pulsating-circles-canvas-compose/) | [*Read article*](https://developersbreach.com/search-with-textfield-list-compose/) |
+  
+| <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/reveal-effect-ani-blog-preview-image.png" alt="Article banner" width="600" /> | <img src="https://github.com/RajashekarRaju/compose-actors/blob/master/assets/banner.png" alt="Article banner" width="600" /> | <img src="https://developersbreach.com/wp-content/uploads/2021/10/HourglassAnimations.png" alt="Article banner" width="600" /> | <img src="https://developersbreach.com/wp-content/uploads/2021/09/ListDetail.png" alt="Article banner" width="600" /> |
+| :-: | :-: | :-: | :-: | 
+| **Reveal effect animations in compose jetpack android** | **Compose and build android app with new architecture principles** | **Jetpack Compose Hourglass animation on canvas in Android** | **Jetpack Compose Navigation list to detail in android** |
+| [*Read article*](https://developersbreach.com/reveal-effect-animations-compose-android/) | [*Read article*](https://developersbreach.com/compose-android-app-architecture/) | [*Read article*](https://developersbreach.com/hourglass-animation-canvas-compose/) | [*Read article*](https://developersbreach.com/list-detail-navigation-compose/) |
 
 | ![](https://komarev.com/ghpvc/?username=RajashekarRaju)<br>Well most of those views must be from me. |
 | :- |
@@ -37,9 +42,9 @@ ___
   
 <!-- ### New Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Reveal effect animations in compose jetpack android](https://developersbreach.com/reveal-effect-animations-compose-android/)
+<!-- - [Reveal effect animations in compose jetpack android](https://developersbreach.com/reveal-effect-animations-compose-android/)
 - [Architecture for Compose android apps – new revamped principles](https://developersbreach.com/compose-android-app-architecture/)
 - [Search with TextField in list Compose Android Jetpack](https://developersbreach.com/search-with-textfield-list-compose/)
 - [Custom shape animations pulsating circles on canvas in compose android](https://developersbreach.com/custom-shape-animations-pulsating-circles-canvas-compose/)
-- [Jetpack Compose Hourglass animation on canvas in Android](https://developersbreach.com/hourglass-animation-canvas-compose/)
+- [Jetpack Compose Hourglass animation on canvas in Android](https://developersbreach.com/hourglass-animation-canvas-compose/) -->
 <!-- BLOG-POST-LIST:END -->
