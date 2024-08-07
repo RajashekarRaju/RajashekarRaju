@@ -3,7 +3,7 @@
 
 <!-- ### :unamused: About Me -->
 <!-- *Hi !*  -->
-I'm a ***Programmer*** who does ***Android Development***, ***Creative & Technical*** writing, ***UI/UX*** Design. A ***Kotlin*** enthusiast and Engineering graduate. I've spent most of time ***Training, Assisting & Mentoring*** students who are absolute Beginners in android development & other tools. I learn from ***Open Source*** and always happy to assist others with my work, which inspired me to lead my non-profit organization ***Developers Breach*** focusing on contributing to ***Open Source*** which puts me in here at ***GitHub***:sparkles: to create helpful resources.
+I'm a ***Programmer*** who does ***Android Development***, ***Creative & Technical*** writing, ***UI/UX*** Design. A ***Kotlin*** enthusiast and Engineering graduate. I've spent most of time ***Training, Assisting & Mentoring*** students who are absolute Beginners in android development & other tools. I learn from ***Open Source*** and always happy to assist others with my work, which inspired me to lead my organization ***Developers Breach*** focusing on contributing to ***Open Source*** which puts me in here at ***GitHub***:sparkles: to create helpful resources.
   
 #### You can check my complete [Portfolio](https://developersbreach.com/profiles/rajasekhar/).
 ___
